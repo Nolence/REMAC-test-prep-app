@@ -9,7 +9,7 @@ March 20 2020
 
 ## Privacy Policy
 
-[Developer/Company name] built the REMAC Test Prep app as [open source/free/freemium/ad-supported/commercial] app. This SERVICE is provided by [Developer/Company name] [at no cost] and is intended for use as is.
+Miguel Hernandez built the REMAC Test Prep app as freemium/ad-supported/commercial app. This SERVICE is provided by Miguel Hernandez [at no cost] and is intended for use as is.
 
 This page is used to inform visitors regarding [my/our] policies with the collection, use, and disclosure of Personal Information if anyone decided to use [my/our] Service.
 
