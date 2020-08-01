@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-July 1 2020
+August 1 2020
 
 ## Terms of Use
 
@@ -19,6 +19,13 @@ Depending on the version of the Application you have downloaded, these App Terms
 We may from time to time vary these App Terms. Please check these App Terms regularly to ensure you are aware of any variations made by us. If you continue to use this App, you are deemed to have accepted such variations. If you do not agree to such variations, you should not use the App.
 
 ## Use of the App
+All the questions contained in REMAC Paramedic Prep are derived from the following website and its protocols:
+
+Protocols
+*   [nycremsco](https://www.nycremsco.org/)
+
+REMAC Paramedic Prep is not affiliated with nycremsco in any way. REMAC Paramedic Prep and its information is intended for educational purposes only and is used as a study aid to successfully pass the NYC REMAC Paramedic exam. All procedures are meant for certified and licensed professionals only. This application is not a substitute for professional medical advice. Users of this app should consult with registered healthcare professionals before making any medical/health decisions based upon the information contained in this app.
+
 REMAC Paramedic Prep hereby grants you a non-exclusive, non-transferable, revocable licence to use the App for your personal, non-commercial use and only on an Apple or Android device (“Device”) as permitted by the applicable Platform Terms and in accordance with these App Terms (“User Licence”).  All other rights in the App are reserved by REMAC Paramedic Prep.
 
 In the event of your breach of these App Terms we will be entitled to terminate the User Licence immediately.
